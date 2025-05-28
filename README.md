@@ -10,4 +10,6 @@ Um projeto simples em Python que converte valores entre diferentes moedas, utili
 - ✅ Atualização automática da taxa de câmbio em tempo real
 - ✅ Interface via terminal com `argparse`
 
+## 🚀 Como usar
 
+python main.py --from USD --to BRL --amount 100
