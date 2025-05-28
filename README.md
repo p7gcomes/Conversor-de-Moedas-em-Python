@@ -10,6 +10,4 @@ Um projeto simples em Python que converte valores entre diferentes moedas, utili
 - ✅ Atualização automática da taxa de câmbio em tempo real
 - ✅ Interface via terminal com `argparse`
 
----
 
-## 📂 Estrutura do Projeto
