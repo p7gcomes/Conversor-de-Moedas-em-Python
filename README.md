@@ -13,3 +13,7 @@ Um projeto simples em Python que converte valores entre diferentes moedas, utili
 ## 🚀 Como usar
 
 python main.py --from USD --to BRL --amount 100
+
+## 🔗 Exemplo
+
+100.00 USD = 530.25 BRL
